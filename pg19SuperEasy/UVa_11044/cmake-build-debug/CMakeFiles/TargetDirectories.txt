@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg19SuperEasy/UVa_11044/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg19SuperEasy/UVa_11044/cmake-build-debug/CMakeFiles/UVa_11044.dir
+C:/Users/kevin/CompetitiveProgramming/pg19SuperEasy/UVa_11044/cmake-build-debug/CMakeFiles/rebuild_cache.dir
