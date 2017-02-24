@@ -10,6 +10,6 @@ int main() {
         scanf("%d %d",&a,&b);
         if(a==-1&&b==-1) return 0;
         if(abs(b-a)<=50) printf("%d\n",abs(b-a));
-        else printf("%d\n",100-(b-a));
+        else printf("%d\n",100-abs(b-a));
     }
 }
