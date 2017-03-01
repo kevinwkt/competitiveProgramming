@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kevin/CompetitiveProgramming/pg20Medium/UVa_10141/main.cpp
+cstring
+-
+cstdio
+-
+iostream
+-
+
