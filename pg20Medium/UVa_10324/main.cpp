@@ -5,16 +5,15 @@
 using namespace std;
 
 int main() {
-    string s;
     int a,count=1,b,bb,temp;
-    //char c[1000000];
-    string c;
+    //string c;
+    char c[1000005];
     bool cond;
-    while (getline(cin,c)){
-        cin>>a;
-        printf("Case: %d\n",count);
+    while (scanf("%s %d",c,&a)==2){
+        printf("Case %d:\n",count);
+        count++;
         for(int i=0;i<a;i++){
-            cin>>b>>bb;
+            scanf("%d %d",&b,&bb);
             cond=true;
             if(b>bb){
                 temp=b;
@@ -22,13 +21,14 @@ int main() {
                 bb=temp;
             }
             for(int j=b;j<bb;j++){
-                if(c[j]!=c[j+1]) cond=false;
+                if(c[j]!=c[j+1]) {
+                    cond=false;
+                    break;
+                }
             }
             if(cond)printf("Yes\n");
             else printf("No\n");
         }
-        count++;
-        getline(cin,c);
     }
     return 0;
 }

@@ -8,6 +8,7 @@ int main() {
     int a,b,count=1;
     string bestname;
     float bestcost,maxratio;
+    bool first=true;
     float cost;
     int no;
     string s="idk",place;
@@ -22,7 +23,7 @@ int main() {
         for (int k = 0; k <b ; k++) {
             getline(cin,s);
             cin>>cost>>no;
-            float ratio=no/a;
+            float ratio=no/(float)a;
             if(ratio>maxratio){
                 maxratio=ratio;
                 bestcost=cost;
@@ -38,8 +39,10 @@ int main() {
                 getline(cin,place);
             }
         }
+        if(!first) printf("\n");
         printf("RFP #%d\n",count);
         cout<<bestname<<endl;
+        first=false;
         count++;
 
     }
