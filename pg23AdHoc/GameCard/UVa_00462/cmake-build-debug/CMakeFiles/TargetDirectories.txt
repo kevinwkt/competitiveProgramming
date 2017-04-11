@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg23AdHoc/GameCard/UVa_00462/cmake-build-debug/CMakeFiles/UVa_00462.dir
+C:/Users/kevin/CompetitiveProgramming/pg23AdHoc/GameCard/UVa_00462/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg23AdHoc/GameCard/UVa_00462/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kevin/CompetitiveProgramming/pg20Medium/UVa_11507/main.cpp
+pthread.h
+-
+semaphore.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

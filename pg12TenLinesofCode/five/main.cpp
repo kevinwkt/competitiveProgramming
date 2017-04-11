@@ -7,10 +7,7 @@
 
 using namespace std;
 
-struct date{
-    int day;
-    int month;
-    int year;};
+struct date{int day,month,year;};
 
 bool compareDays(const date &a, const date &b) {return a.day < b.day;}
 
