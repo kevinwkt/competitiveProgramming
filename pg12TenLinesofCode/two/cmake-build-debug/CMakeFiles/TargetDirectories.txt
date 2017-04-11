@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/two/cmake-build-debug/CMakeFiles/two.dir
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/two/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/two/cmake-build-debug/CMakeFiles/rebuild_cache.dir

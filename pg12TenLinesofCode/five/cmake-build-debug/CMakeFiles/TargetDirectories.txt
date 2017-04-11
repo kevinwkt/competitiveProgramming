@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/five/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/five/cmake-build-debug/CMakeFiles/five.dir
+C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/five/cmake-build-debug/CMakeFiles/edit_cache.dir
