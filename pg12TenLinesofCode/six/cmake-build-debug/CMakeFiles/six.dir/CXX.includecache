@@ -7,10 +7,10 @@
 #IncludeRegexTransform: 
 
 C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/six/main.cpp
-iostream
--
 stdio.h
 -
-algorithm
+stack
+-
+queue
 -
 

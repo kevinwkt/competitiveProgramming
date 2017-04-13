@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kevin/CompetitiveProgramming/pg42STLQueueDequeue/UVa_10172/main.cpp
+iostream
+-
+stdio.h
+-
+vector
+-
+queue
+-
+stack
+-
+

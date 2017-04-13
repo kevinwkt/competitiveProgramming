@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg41.2DArrayManipulation/UVa_10855/cmake-build-debug/CMakeFiles/UVa_10855.dir
+C:/Users/kevin/CompetitiveProgramming/pg41.2DArrayManipulation/UVa_10855/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg41.2DArrayManipulation/UVa_10855/cmake-build-debug/CMakeFiles/rebuild_cache.dir

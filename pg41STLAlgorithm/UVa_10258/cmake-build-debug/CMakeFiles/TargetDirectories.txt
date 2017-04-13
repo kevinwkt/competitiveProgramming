@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg41STLAlgorithm/UVa_10258/cmake-build-debug/CMakeFiles/UVa_10258.dir
+C:/Users/kevin/CompetitiveProgramming/pg41STLAlgorithm/UVa_10258/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg41STLAlgorithm/UVa_10258/cmake-build-debug/CMakeFiles/rebuild_cache.dir

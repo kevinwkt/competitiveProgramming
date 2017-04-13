@@ -1,0 +1,3 @@
+C:/Users/kevin/CompetitiveProgramming/pg40ArrayManipulation/UVa_12356/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kevin/CompetitiveProgramming/pg40ArrayManipulation/UVa_12356/cmake-build-debug/CMakeFiles/UVa_12356.dir
+C:/Users/kevin/CompetitiveProgramming/pg40ArrayManipulation/UVa_12356/cmake-build-debug/CMakeFiles/edit_cache.dir
