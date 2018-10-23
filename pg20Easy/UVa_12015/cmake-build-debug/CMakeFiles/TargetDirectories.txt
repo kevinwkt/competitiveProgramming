@@ -1,3 +1,0 @@
-C:/Users/kevin/CompetitiveProgramming/pg20Easy/UVa_12015/cmake-build-debug/CMakeFiles/UVa_12015.dir
-C:/Users/kevin/CompetitiveProgramming/pg20Easy/UVa_12015/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kevin/CompetitiveProgramming/pg20Easy/UVa_12015/cmake-build-debug/CMakeFiles/rebuild_cache.dir
