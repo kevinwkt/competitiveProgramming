@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\JetBrains\CLion 2016.3.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\five.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\five.dir/objects.a @CMakeFiles\five.dir\objects1.rsp
-C:\MinGW\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\five.dir/objects.a -Wl,--no-whole-archive  -o five.exe -Wl,--out-implib,libfive.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\five.dir\linklibs.rsp

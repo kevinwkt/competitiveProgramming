@@ -1,3 +1,0 @@
-C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/six/cmake-build-debug/CMakeFiles/six.dir
-C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/six/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kevin/CompetitiveProgramming/pg12TenLinesofCode/six/cmake-build-debug/CMakeFiles/rebuild_cache.dir
