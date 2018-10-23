@@ -21,7 +21,7 @@ int main() {
             limit2--;
             if(arr[limit1].left>-1) arr[arr[limit1].left].right=arr[limit2].right;
             if(arr[limit2].right>-1) arr[arr[limit2].right].left=arr[limit1].left;
-
+        
             if(arr[limit1].left>-1) printf("%d ",arr[limit1].left+1); else printf("* ");
             if(arr[limit2].right>-1) printf("%d\n",arr[limit2].right+1); else printf("*\n");
         }
